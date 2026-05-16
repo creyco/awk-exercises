@@ -1,28 +1,28 @@
 
-Una coleccion awk scripts
+Una coleccion de scripts bash awk
 
 <!-- MarkdownTOC -->
 
-- [Linux](#bash-scripts)
-- [Sed/Awk](#sed-awk)
+- [bash-scripts](#bash-scripts)
+- [sed-awk/Awk](#sed-awk)
 
 <!-- /MarkdownTOC -->
 
 
-## Linux
-- [compress and extract files](linux/compress_extract_files.md)
+## bash-scripts
+- [compress and extract files](bash-scripts/compress_extract_files.md)
 - [bash-guide,A guide to learn bash](https://github.com/Idnan/bash-guide)
-- [basic commands](linux/basic_command.md)
-- [terminal-hotkeys](./linux/terminal-hotkeys.md)
+- [basic commands](bash-scripts/basic_command.md)
+- [terminal-hotkeys](./bash-scripts/terminal-hotkeys.md)
 - [cheat allows you to create and view interactive cheatsheets on the command-line](https://github.com/chrisallenlane/cheat)
-- [install pytorch on palmetto](linux/install-pytorch-on-palmetto.md)
-- [Installing CUDA 10 on Ubuntu 18.04](linux/install_cuda10.txt)
+- [install pytorch on palmetto](bash-scripts/install-pytorch-on-palmetto.md)
+- [Installing CUDA 10 on Ubuntu 18.04](bash-scripts/install_cuda10.txt)
 
 
-## Sed/Awk
-- [Sed Tutorial](sed-awk/sed_tutorial.md)
-- [Awk Tutorial](sed-awk/awk_tutorial.md)
-- [Awk Soup](sed-awk/awk_soup)
+## sed-awk/Awk
+- [sed-awk Tutorial](sed-awk-awk/sed-awk_tutorial.md)
+- [Awk Tutorial](sed-awk-awk/awk_tutorial.md)
+- [Awk Soup](sed-awk-awk/awk_soup)
 
 
 github.com/creycolon/awk-excercises
