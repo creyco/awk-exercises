@@ -3,8 +3,8 @@ Una coleccion awk scripts
 
 <!-- MarkdownTOC -->
 
-- [Linux](#linux)
-- [Sed/Awk](#sed)
+- [Linux](#bash-scripts)
+- [Sed/Awk](#sed-awk)
 
 <!-- /MarkdownTOC -->
 
